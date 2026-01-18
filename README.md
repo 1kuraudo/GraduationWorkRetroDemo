@@ -1,3 +1,5 @@
+This gameplay demo serves as part of the experiment for my graduation work project at Howest DAE.
+
 Asset credits:
 
 PSX Shader:
